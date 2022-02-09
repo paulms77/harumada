@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">harumada</string>
+    <string name="edit_hint4_txv">hint4</string>
 </resources>
