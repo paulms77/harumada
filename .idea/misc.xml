@@ -4,7 +4,8 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Kotlin/harumada/app/src/main/res/layout/activity_login.xml" value="0.36614583333333334" />
-        <entry key="..\:/Kotlin/harumada/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/Kotlin/harumada/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Kotlin/harumada/app/src/main/res/layout/activity_second.xml" value="0.2046875" />
         <entry key="..\:/Kotlin/harumada/app/src/main/res/layout/activity_test.xml" value="0.36614583333333334" />
         <entry key="..\:/Users/82102/AndroidStudioProjects/harumada/app/src/main/res/layout/activity_main.xml" value="0.175" />
       </map>
